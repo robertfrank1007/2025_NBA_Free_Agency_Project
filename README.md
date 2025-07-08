@@ -1,12 +1,14 @@
 <h1> 2025 NBA Free Agency Project <br/><a <h1>
 <h3> By: Robert Frank </h3>
 
-<h2>👨‍💻 Projects:</h2>
+<h2> Overview </h2>
 
-[2023-2024 UIUC Basketball Analysis Project](https://github.com/robertfrank1007/Illinois-Baketball-Project)
+<h2> Step 1: Gather Data </h2>
 
-[2024-2025 NFL Fantasy WR Analysis Project](https://github.com/robertfrank1007/NFL-Fantasy-Wide-Receiver-Analysis-Project)
+<h2> Step 2: Clean Data </h2>
 
-[NBA2K25 Chicago Bulls Analysis Project](https://github.com/robertfrank1007/2024-2025_Chicago_Bulls_Lineup_Analysis_Project)
+<h2> Step 3: Import Data to R Studio </h2>
 
-[2025 NBA Free Agency Project](https://github.com/robertfrank1007/2025_NBA_Free_Agency_Project.git)
+<h2> Step 4: Build Linear Regression Model </h2>
+
+<h2> Step 5: Analyze Results and Compare to Ongoing Free Agent Signings </h2>
