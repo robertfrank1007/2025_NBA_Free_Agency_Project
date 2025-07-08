@@ -7,7 +7,9 @@ In this project, my goal is to build a linear regression model in R that predict
 To collect the data I needed, I first imported 570 NBA players' stats from this previous season into Excel. I included general stats like PPG and FG%, as well as advanced stats like Net Rating and Usage %, all from NBA.com. I then gathered 2024-2025 and 2025-2026 salary data from HoopsHype.com and inserted it into another Excel sheet. Using V-lookup and players' names as my key, I matched every players' stats to their salaries.
 <h2> Step 2: Clean Data </h2>
 HoopsHype and the officla NBA website had slight discrpencies in the spelling of players' names, so I cleaned the data by removing accent marks and ensuring generational suffixes matched. I also decided to treat all players with qualifying offers and team/player options as if they are unrestricted free agents by setting their 26_salary variable to $0 to see what their true market value is according to my model. Additionally, I left out all players on 2-way contracts.
+
 <img width="1420" alt="Stat_Screenshot" src="https://github.com/user-attachments/assets/14cbeab4-edf9-4073-8de5-4bf5cfc1e025" />
+
 <img width="373" alt="Screenshot 2025-07-08 at 5 52 43 PM" src="https://github.com/user-attachments/assets/b0c10623-9240-4b27-9c87-f758a567563e" />
 
 <h2> Step 3: Import Data to R Studio </h2>
