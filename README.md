@@ -10,7 +10,8 @@ HoopsHype and the officla NBA website had slight discrpencies in the spelling of
 
 <img width="1420" alt="Stat_Screenshot" src="https://github.com/user-attachments/assets/14cbeab4-edf9-4073-8de5-4bf5cfc1e025" />
 
-<img width="373" alt="Screenshot 2025-07-08 at 5 52 43 PM" src="https://github.com/user-attachments/assets/b0c10623-9240-4b27-9c87-f758a567563e" />
+<img width="1209" alt="Salaries_Screenshot" src="https://github.com/user-attachments/assets/62815d4e-4ca0-48fb-9754-7072848b1534" />
+
 
 <h2> Step 3: Import Data to R Studio </h2>
 
