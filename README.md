@@ -8,8 +8,7 @@ To collect the data I needed, I first imported 570 NBA players' stats from this 
 <h2> Step 2: Clean Data </h2>
 HoopsHype and the officla NBA website had slight discrpencies in the spelling of players' names, so I cleaned the data by removing accent marks and ensuring generational suffixes matched. I also decided to treat all players with qualifying offers and team/player options as if they are unrestricted free agents by setting their Salary_26 variable to $0 to see what their true market value is according to my model. Additionally, I left out all players on 2-way contracts.
 
-<img width="1420" alt="Stat_Screenshot" src="https://github.com/user-attachments/assets/14cbeab4-edf9-4073-8de5-4bf5cfc1e025" />
-
+<img width="1420" alt="Screenshot 2025-07-08 at 5 57 15 PM" src="https://github.com/user-attachments/assets/812ae59d-c443-486e-8483-d48ec135c64c" />
 <img width="1209" alt="Salaries_Screenshot" src="https://github.com/user-attachments/assets/62815d4e-4ca0-48fb-9754-7072848b1534" />
 
 
