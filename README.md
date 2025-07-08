@@ -4,7 +4,7 @@
 <h2> Overview </h2>
 In this project, my goal is to build a linear regression model in R that predicts the expected salary for NBA free agents this offseason based on their production during the 2024-2025 NBA season. As a lifelong Chicago Bulls fan and NBA twitter enthusiast, I am extremely invested in the free agent market this summer. 
 <h2> Step 1: Gather Data </h2>
-
+To collect the data I needed, I first imported 570 NBA players' stats from this previous season into Excel. I included general stats like PPG and FG%, as well as advanced stats like Net Rating and Usage %, all from NBA.com. I then gathered 2024-2025 and 2025-2026 salary data from HoopsHype.com and inserted it into another Excel sheet. Using V-lookup and players' names as my key, I matched every players' stats to their salaries.
 <h2> Step 2: Clean Data </h2>
 
 <h2> Step 3: Import Data to R Studio </h2>
@@ -14,3 +14,5 @@ In this project, my goal is to build a linear regression model in R that predict
 <h2> Step 5: Analyze Results and Compare to Ongoing Free Agent Signings </h2>
 
 <h2> Step 6: Conclusion </h2>
+
+<h2> Sources </h2>
