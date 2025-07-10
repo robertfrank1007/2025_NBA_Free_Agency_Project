@@ -24,6 +24,10 @@ My linear regression model used a mix of age, box-score stats, and advanced metr
 
 <h2> Step 5: Analyze Results and Compare to Ongoing Free Agent Signings </h2>
 
+
 <h2> Step 6: Conclusion </h2>
 
+
 <h2> Sources </h2>
+[NBA.com](https://www.nba.com/stats/players/traditional?SeasonType=Regular+Season)
+[HoopsHype.com](https://hoopshype.com/salaries/players/)
