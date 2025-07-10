@@ -31,4 +31,5 @@ My linear regression model used a mix of age, box-score stats, and advanced metr
 <h2> Sources </h2>
 
 [2024-2025 NBA Regular Season Stats](https://www.nba.com/stats/players/traditional?SeasonType=Regular+Season)
+
 [2024-2025 and 2025-2026 NBA Salaries](https://hoopshype.com/salaries/players/)
